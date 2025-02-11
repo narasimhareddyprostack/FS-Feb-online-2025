@@ -1,0 +1,17 @@
+h1,p{
+    background-color: red;
+}
+
+/*
+CSS selector ?
+group of styles. - style Reusabilty
+
+Different Type of Select 
+1. Tag/Element Selector
+2. Group of Tag Selectors 
+3. class Selector               .
+4. ID Selector                  #
+5. Group of Tag, class and Id  
+6. Universal Selector           * 
+7. Attribute Selector           []
+*/
