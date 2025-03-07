@@ -1,0 +1,36 @@
+Advatages - using css?
+
+1. Style Reusability
+2. Readability
+3. Modularity
+4. Page load Faster
+5. Global changes Option
+
+How many ways - We can Apply CSS?
+3 ways 
+
+1. Inline CSS 
+2. Internal CSS 
+3. External CSS 
+
+CSS - Mechanism
+---------------
+Rule 1 :  
+Nearest Styles has highest priority
+or styles are going to apply top to buttom
+
+Rule 2: CSS selector Specificity?
+
+inline  > id selector >  class selector > Tag /Element 
+1000           100         10               1
+
+CSS Selector?
+-group of styles for Reusability
+type of Selector?
+
+1. Tag/Element Selector 
+2. Group of Tag/Element Selectors
+3. Class Selector                   .
+4. ID Selector                      # 
+5. Attribute Selector               []
+6. Universal Selector               *

@@ -1,0 +1,15 @@
+HTML 5 New Tags
+-------------------
+audio
+video
+address          -
+mark
+
+nav              - <nav> </nav>
+header           -
+footer           -
+
+figure           
+caption
+sematic Tags 
+<input --- new attributes/>

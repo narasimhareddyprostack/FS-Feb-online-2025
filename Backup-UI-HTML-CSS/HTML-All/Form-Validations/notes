@@ -1,0 +1,18 @@
+What is need of data validation @ client side?
+<input type="text"  required />
+
+required
+readonly
+disabled
+
+min
+max
+
+minlegth
+maxlegth
+name 
+id 
+value 
+placeholder
+pattern
+tabindex

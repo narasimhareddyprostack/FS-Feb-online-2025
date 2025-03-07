@@ -1,0 +1,11 @@
+a{
+    background-color: red;
+}
+a[target]{
+background-color: yellow;
+}
+
+*{
+ 
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}

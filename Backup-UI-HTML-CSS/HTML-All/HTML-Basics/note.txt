@@ -1,0 +1,16 @@
+What is IDE?
+
+Best IDE for Web Development?
+
+Tag Categoirs  : Tags
+--------------------------------------------------------------
+Doc Tags       : html,head,body,title,meta,style,link,script
+Structure Tags : div,section,article,aside,nav,header,footer etc
+Text Formating : h1,h2,h3,h4,h5,h6,p,span,i,b,strong,hr,br
+Link Tags      : <a></a>
+Image Tag      : <img/>
+List Tags      : <ul><ol><li>
+Table Tags     : <table><thead><tbody><th><tr><td>
+Form Tags      : <form><label><input><button><textare><select><option>
+Frame Tags     : <iframe>
+HTML 5 New Tags:mark,address,nav,header,footer,figure,caption,audio,vidoe
