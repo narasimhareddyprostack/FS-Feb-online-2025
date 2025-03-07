@@ -1,0 +1,17 @@
+What is Selector?
+
+- group of styles for Resuability
+
+table,p,h1,span{
+    color:"Red",
+    font-size:"10px"
+}
+
+Type of Selector?
+
+Tag/Element Selector
+Class Selector             . 
+Id Selector                #
+Attribute Selector         []
+Universal Selector          *
+=====================================

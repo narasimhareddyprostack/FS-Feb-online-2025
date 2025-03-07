@@ -1,0 +1,20 @@
+CSS Rules
+---------------
+
+Rule 1: Styles - top to button ie nearest style has highest priority
+
+Rule 2:CSS Selector Specificity - Table
+
+Inline style >  Id Select >  Class and Att > Tag/Element Select
+1000              1000          10             1
+
+
+===========================
+Tag /Element
+Group of Tag Selector
+Class Selector 
+Id 
+
+===========
+Attribute and
+Universal Selector
