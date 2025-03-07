@@ -1,0 +1,25 @@
+.logo{
+    background-color: lightsteelblue;
+    color: black;
+    padding: 20px;
+}
+.a{
+    display: inline;
+}
+
+.item{
+    display: inline;
+    margin-left: 60%;
+}
+
+.item a{
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.item a:hover{
+    cursor: pointer;
+    color: antiquewhite;
+    text-decoration: underline;
+}
