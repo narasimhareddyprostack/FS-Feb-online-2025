@@ -1,0 +1,18 @@
+Non-Primitive Data Type
+- Holding multiple valeus
+Javascript - Array
+
+
+Javascript - Object
+---------------------------
+Js Operators
+-------------------------
+Aritmatic Operators     :  + , _ , *, /,%,   **
+Relational Operators    : <, <= , >, >=
+Logical Operators       : &&  ||
+Equality Operators      : ==    === 
+Assignment Operators    : = ,  +=
+Incr/Decr Operators     : ++ , --
+Ternary  Operators      : conditional st? true st : false st
+                          ?    :
+Bitwise Operators       :
