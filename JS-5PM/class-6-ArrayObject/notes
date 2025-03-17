@@ -1,0 +1,39 @@
+JS Array
+--------
+if you wnat to group of element as one entity
+where allowed duplicats and heterogenous elements
+
+And 
+Array elements are storing based on indexing
+Note: -ve indexing is not possible 
+
+and Order is maintained.
+
+How to Iterat Array?
+for(){},while(){},do{}while{},for( of ){} 
+==============================
+JS Array  - [] and 
+Js Object - {}   - Object Data type 
+
+JS Object? 
+If you want  to represent mapped values
+
+if you want represent group of key:value pairs as one entity.
+where allowed heterogenous elements.
+Duplicate keys are not allowd but values are allowed.
+
+Index concept is nt applicable
+
+let product={
+    p_Name:"Marker Pen",
+    price: 30
+}
+let emp={
+    eid:101,
+    ename:"Rahul",
+    esal:45000
+}
+let user={
+    uName:"Sonia",
+    loc:"New Delhi"
+}
