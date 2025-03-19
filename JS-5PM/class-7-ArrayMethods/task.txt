@@ -1,0 +1,4 @@
+print only beauty products? 
+product name, category , price  - from given data?
+
+https://dummyjson.com/products

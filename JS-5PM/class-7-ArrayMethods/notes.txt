@@ -1,0 +1,4 @@
+How to verify given object is empty or not?   [].length 
+How to verify given array is empty or not? -  Object.keys()
+How to print object in browser/UI?    -       JSON.strigify() method
+
