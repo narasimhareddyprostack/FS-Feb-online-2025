@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>JS Events DOM Exmaple</title>
+    </head>
+    <body>
+        <button id="btn1" style="background-color: red;" onmouseover="changeColorOne()">Mouse Over</button>
+        <br>
+        <br>
+        <button id="btn2" style="background-color: red;" onmouseout="changeColorTwo()">Mouse Out</button>
+        <br><br>
+        <button id="btn3" style="background-color: red;" onclick="changeColorThree()">click</button>
+        <br><br>
+        <button id="btn4" style="background-color: red;" ondblclick="changeColorFour()">Double Click</button>
+        <br><br>
+        <label >Form - Event - Focus Example</label>
+        <input type="text" class="formEx1" onfocus="changeColorFive()" />
+        <br><br>
+        <label >Blur Example:</label>
+        <input type="text" class="formEx2" onblur="changeCase()" />
+   
+    </body>
+    <script src="./color.js" type="text/javascript"></script>
+</html>
