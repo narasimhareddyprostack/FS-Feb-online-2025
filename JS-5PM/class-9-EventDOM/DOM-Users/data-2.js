@@ -231,7 +231,7 @@ let users=[
     }
     ]
 
-let display_Users = ()=>{
+function display_Users(){
     let rows="";
     for(let user of users){
         rows=rows+`<tr>
@@ -245,7 +245,7 @@ let display_Users = ()=>{
     document.getElementById('tData').innerHTML=rows
     //document.getElementById('tData').innerHTML="gm"
 
-    }
+}
 /*
   <tr>
     <td>1</td>
