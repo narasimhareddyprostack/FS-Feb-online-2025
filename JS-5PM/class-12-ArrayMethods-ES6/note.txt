@@ -1,0 +1,34 @@
+JS Array
+-- group of elmement as one entiry
+--where allowed duplicate and heterogenous elements
+--elements are going to store based on indexing
+Note: -ve indexing is not possible
+
+We can iterate array using 
+1)for loop
+2)While loop
+3)do{}while loop
+4)for of loop
+
+
+JS Methods
+[].push()
+[].pop()
+[].shift()
+[].unshift()
+
+[].indexof() - return index value of specified element 
+
+[].soft()
+[].reverse()
+[].slice()
+[].splice()
+
+ES6
+[].foreach()
+[].map()
+[].find()
+[].filter()
+[].reduce()
+
+

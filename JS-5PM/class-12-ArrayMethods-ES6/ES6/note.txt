@@ -1,0 +1,28 @@
+JS - ES6 Features
+
+1. let ,const
+2. class
+3. ()=>{}
+4. ${} - string literal
+5. [] -array new methods
+   a)[].foreach()
+   b)[].map()
+   c)[].filter()
+   d)[].reducer()
+   e)[].find()
+6. triple ... operators
+   a)... spread
+   b)... rest 
+7)import and export 
+8)Destructuring
+  a) array Destructuring
+  b)Object Destructuring
+9)async and await 
+  asynchonous programing - JS
+  a)call back
+  b)Promise 
+  c)async and await 
+
+10)Set
+
+Clouseres

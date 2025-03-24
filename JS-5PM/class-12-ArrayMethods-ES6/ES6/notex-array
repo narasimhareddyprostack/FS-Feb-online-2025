@@ -1,0 +1,31 @@
+5. [] -array new methods
+   a)[].foreach()
+   b)[].map()
+   c)[].filter()
+   d)[].reducer()
+   e)[].find()
+[].push(10)  --append element end of array 
+
+[].foreach(()=>{})
+[].map(()=>{})
+[].filter(()=>{})
+[].find(()=>{})
+[].reducer(()=>{})
+
+=============================
+
+array  methods
+
+push()
+pop()
+shift()
+unshift()
+reverse()
+slice()
+splice()
+
+[].map() 
+[].filter()
+[].find()
+[].forEach()
+[].reducer()
