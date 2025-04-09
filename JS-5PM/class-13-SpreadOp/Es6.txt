@@ -1,0 +1,18 @@
+let,const
+class
+()=>{}
+${}   - Strin literal 
+
+[].forEach()
+[].map()
+[].filter()
+[].find()
+[].reduce()
+
+...  -  tripple dot operator
+
+import and export 
+asynchronous programing
+a)callback
+b)Promise
+c)asyc and await

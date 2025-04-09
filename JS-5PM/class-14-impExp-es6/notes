@@ -1,0 +1,6 @@
+1.How to enable es6
+a)type:module - property
+b)babel traspiler
+
+
+cmd>npm init -y
