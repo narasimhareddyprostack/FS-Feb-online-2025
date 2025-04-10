@@ -1,0 +1,10 @@
+What is OOP?
+What is Object?
+What is Class?
+
+-class is template/Data Type or Plan /Draft /Design 
+ to construct objects.
+ - Once object is created memory location allowcated
+
+
+

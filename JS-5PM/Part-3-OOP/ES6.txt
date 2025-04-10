@@ -1,0 +1,16 @@
+1.let,const
+2.class
+3.()=>{}   /Fat Arrow Function/arrwo function
+4.String literal  ${}  : read variable like a string 
+5.[] - new Methods
+6. ... (triple dot operator)
+7.import /export
+8.Destructuring
+  async Programing using JS
+9.async await
+  a)callback
+  b)Promise
+  c)async await 
+
+10.Set
+11.Closure
