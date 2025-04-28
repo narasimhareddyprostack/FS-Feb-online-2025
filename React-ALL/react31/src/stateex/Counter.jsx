@@ -10,7 +10,7 @@ let Counter = ()=>{
     }
     return <div>
                 <h4>Counter Component</h4>
-                <h4>Counter Value:{counter}</h4>
+                <h4 style={{'color':'red'}}>Counter Value:{counter}</h4>
                 <button onClick={incrHandler}>Incr</button>  
            </div>
 }
