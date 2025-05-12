@@ -1,14 +1,14 @@
-import Demo from "./component/Demo";
-import Navbar from "./Navbar/Navbar";
-import '../node_modules/bootstrap/dist/css/bootstrap.css'
-import Counter from "./stateex/Counter";
-import Message from "./stateex/Message";
-import Product from './stateex/Product'
+import Navbar from "./components/Navbar/Navbar";
+import Employee from "./components/Employees/Employee";
+import Users from "./components/Users/Users";
+import Login from "./FormHandling/Login";
+import Regi from "./FormHandling/Regi";
 let App = ()=>{
 
     return <div>
-                
-                <Product/>
+           <Navbar/>
+           <Regi/>
+             
 
           </div>
 
